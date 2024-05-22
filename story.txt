@@ -4,4 +4,6 @@ third line
 This is new line
 changes in master before stash
 This change is for Alice branch
+changes done by Accolite
+
 
