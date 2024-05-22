@@ -1,6 +1,4 @@
 first line
 Second line
 third line
-
-
 This is new line
